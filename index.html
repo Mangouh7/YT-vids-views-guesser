@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Guess the Views Game</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="game-wrapper">
+    <div class="game-container">
+      <h1>🎯 Guess the Views!</h1>
+      <div class="video-card" id="videoCard">
+        <img id="videoThumb" src="" alt="Video Thumbnail">
+        <h2 id="videoTitle">Loading...</h2>
+      </div>
+
+      <div class="input-container">
+        <input type="number" id="guessInput" placeholder="Enter your guess">
+        <button id="guessBtn">Guess</button>
+      </div>
+
+      <p id="feedback"></p>
+      <button id="nextBtn">Next Video</button>
+      <p id="score">Score: 0</p>
+    </div>
+
+    <div class="avatar-container">
+      <img id="avatarImg" src="images/avatar.png" alt="Avatar">
+      <p id="avatarText">Type a guess...</p>
+    </div>
+  </div>
+
+  <canvas id="confettiCanvas"></canvas>
+
+  <script src="script.js"></script>
+</body> 
+</html>
