@@ -2,12 +2,13 @@
 YouTube views guessing game with avatar reactions and confetti. JS code partly created with AI assistance.
 This is an interactive web game where players guess the number of views for random YouTube videos.
 
-Dynamic avatar reactions: Avatar reacts to how close your guess is (far, close, very close).
 
-Confetti animation: Celebrate correct guesses with colorful effects.
+.Dynamic avatar reactions: Avatar reacts to how close your guess is (far, close, very close).
 
-YouTube API integration: Fetches real video data including title, thumbnail, and view count.
+.Confetti animation: Celebrate correct guesses with colorful effects.
 
-Responsive design: Works on desktop and mobile.
+.YouTube API integration: Fetches real video data including title, thumbnail, and view count.
 
-Technologies used: HTML, CSS, JavaScript, YouTube Data API.
+.Responsive design: Works on desktop and mobile.
+
+.Technologies used: HTML, CSS, JavaScript, YouTube Data API.
