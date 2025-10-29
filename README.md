@@ -1,4 +1,5 @@
-# YT-vids-views-guesser https://yt-vids-views-guesser.vercel.app/
+# YT-vids-views-guesser https
+
 YouTube views guessing game with avatar reactions and confetti. JS code partly created with AI assistance.
 This is an interactive web game where players guess the number of views for random YouTube videos.
 
