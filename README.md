@@ -14,5 +14,6 @@ Responsive design: Works on desktop and mobile.
 
 Technologies used: HTML, CSS, JavaScript, and YouTube Data API. 
 
-#LIVE DEMO 
+
+#LIVE DEMO
  <a href="https://yt-vids-views-guesser.vercel.app/">YOUTUBE VIDEO yt-vids-views-guesser</a>
