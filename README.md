@@ -2,7 +2,7 @@
   <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="180"/>
 </p>
 
-<h1 align="center">🎬 YouTube Video Guesser Game</h1>
+<h1 align="center"> YouTube Video Guesser Game</h1>
 
 <p align="center">
   <i>Test your intuition! Guess the view counts of YouTube videos and see how close you can get — with dynamic avatar reactions and confetti celebrations.</i>
