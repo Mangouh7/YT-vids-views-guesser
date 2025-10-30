@@ -1,19 +1,52 @@
-# YT-vids-views-guesser 
+<h1 align="center">🎬 YouTube Video Guesser Game</h1>
 
-YouTube views guessing game with avatar reactions and confetti. JS code partly created with AI assistance.
-This is an interactive web game where players guess the number of views for random YouTube videos.
+<p align="center">
+  <i>Test your intuition! Guess the view counts of YouTube videos and see how close you can get — with dynamic avatar reactions and confetti celebrations.</i>
+</p>
 
+---
 
-.Dynamic avatar reactions: Avatar reacts to how close your guess is (far, close, very close).
+<!-- Tech Logos -->
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="50" height="50" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50" height="50" />
+</p>
 
-.Confetti animation: Celebrate correct guesses with colorful effects.
+---
 
-YouTube API integration: Fetches real video data, including title, thumbnail, and view count.
+## Overview
 
-Responsive design: Works on desktop and mobile.
+**YouTube Video Guesser** is a fun web game built with **HTML**, **CSS**, and **JavaScript**, powered by the **YouTube Data API**.  
+Players are shown a video’s thumbnail and title — and must guess its view count!  
+The closer your guess, the more exciting the reaction from your animated avatar.  
 
-Technologies used: HTML, CSS, JavaScript, and YouTube Data API. 
+---
 
+## Features
 
-#LIVE DEMO
- <a href="https://yt-vids-views-guesser.vercel.app/">YOUTUBE VIDEO yt-vids-views-guesser</a>
+- 🎥 Randomly fetched YouTube videos via API  
+- 💬 Avatar gives reactions based on your guess accuracy  
+- 🎉 Confetti animation for close guesses  
+- 🔊 Sound effects for correct and wrong answers  
+- 🌓 Dark & light mode toggle  
+- ⚡ Simple, responsive, and fast  
+
+---
+
+## Tech Stack
+
+| Technology | Purpose |
+|-------------|----------|
+| HTML5 | Structure and layout |
+| CSS3 | Styling and animations |
+| JavaScript (ES6) | Logic, API calls, and interactivity |
+| YouTube Data API | Fetches video details and stats |
+
+---
+
+## Setup Instructions
+
+1. **Clone the Repository**
+   ```bash
+   git clone https://github.com/Mangouh7/youtube-video-guesser.git
