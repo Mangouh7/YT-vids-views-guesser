@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/b/b8/YouTube_Logo_2017.svg" alt="YouTube Logo" width="180"/>
+</p>
+
 <h1 align="center">🎬 YouTube Video Guesser Game</h1>
 
 <p align="center">
@@ -17,7 +21,7 @@
 
 ## Overview
 
-**YouTube Video Guesser** is a fun web game built with **HTML**, **CSS**, and **JavaScript**, powered by the **YouTube Data API**.  
+**YouTube Video Guesser** is a fun and interactive web game built with **HTML**, **CSS**, and **JavaScript**, powered by the **YouTube Data API**.  
 Players are shown a video’s thumbnail and title — and must guess its view count!  
 The closer your guess, the more exciting the reaction from your animated avatar.  
 
@@ -25,12 +29,12 @@ The closer your guess, the more exciting the reaction from your animated avatar.
 
 ## Features
 
-- 🎥 Randomly fetched YouTube videos via API  
-- 💬 Avatar gives reactions based on your guess accuracy  
+- 🎥 Randomly fetched YouTube videos using the API  
+- 💬 Avatar reacts dynamically to your guesses  
 - 🎉 Confetti animation for close guesses  
-- 🔊 Sound effects for correct and wrong answers  
-- 🌓 Dark & light mode toggle  
-- ⚡ Simple, responsive, and fast  
+- 🔊 Sound effects for correct or wrong guesses  
+- 🌓 Dark & Light mode toggle  
+- ⚡ Responsive and optimized for all devices  
 
 ---
 
@@ -38,10 +42,10 @@ The closer your guess, the more exciting the reaction from your animated avatar.
 
 | Technology | Purpose |
 |-------------|----------|
-| HTML5 | Structure and layout |
-| CSS3 | Styling and animations |
-| JavaScript (ES6) | Logic, API calls, and interactivity |
-| YouTube Data API | Fetches video details and stats |
+| **HTML5** | Structure and layout |
+| **CSS3** | Styling, responsiveness, and animations |
+| **JavaScript (ES6)** | Logic, interactivity, and API calls |
+| **YouTube Data API** | Fetches video stats and thumbnails |
 
 ---
 
@@ -50,6 +54,7 @@ The closer your guess, the more exciting the reaction from your animated avatar.
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Mangouh7/youtube-video-guesser.git
+
    ```
 2. **Open the project**
    ```bash
