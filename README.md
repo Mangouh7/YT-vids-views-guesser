@@ -50,3 +50,9 @@ The closer your guess, the more exciting the reaction from your animated avatar.
 1. **Clone the Repository**
    ```bash
    git clone https://github.com/Mangouh7/youtube-video-guesser.git
+   ```
+2. **Open the project**
+   ```bash
+   cd youtube-video-guesser
+ 
+
